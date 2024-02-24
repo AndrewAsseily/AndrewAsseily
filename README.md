@@ -6,4 +6,4 @@ Software Engineer @ [BluMint](https://www.blumint.com/)
 
 Based in NYC 🇺🇸
 
-Most of my repositories are private. Email me if you are interested in seeing them.
+My repositories are private.
